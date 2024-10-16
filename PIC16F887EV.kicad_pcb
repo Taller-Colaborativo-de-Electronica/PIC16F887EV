@@ -841,7 +841,7 @@
 		)
 		(fp_arc
 			(start -2.1747 0.3223)
-			(mid -1.600348 -4.921578)
+			(mid -1.600349 -4.921577)
 			(end 3.1903 -2.713)
 			(stroke
 				(width 0.375)
@@ -14216,7 +14216,7 @@
 		)
 		(fp_arc
 			(start -2.1747 0.3223)
-			(mid -1.600348 -4.921578)
+			(mid -1.600349 -4.921577)
 			(end 3.1903 -2.713)
 			(stroke
 				(width 0.375)
@@ -25481,7 +25481,7 @@
 			)
 		)
 	)
-	(gr_text "EV PIC16F887 v1.1"
+	(gr_text "EV PIC16F887 v2.0"
 		(at 43 20 0)
 		(layer "F.Cu")
 		(uuid "6cac5193-36ea-4d4b-a0c0-0519ea259b32")
@@ -26437,7 +26437,7 @@
 			)
 		)
 	)
-	(gr_text "EV PIC16F887 v1.1"
+	(gr_text "EV PIC16F887 v2.0"
 		(at 43 20 0)
 		(layer "F.Mask")
 		(uuid "b4ae7873-72c2-4fc1-b809-dc4484f31b88")
