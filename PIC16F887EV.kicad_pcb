@@ -841,7 +841,7 @@
 		)
 		(fp_arc
 			(start -2.1747 0.3223)
-			(mid -1.600349 -4.921577)
+			(mid -1.600348 -4.921578)
 			(end 3.1903 -2.713)
 			(stroke
 				(width 0.375)
@@ -14216,7 +14216,7 @@
 		)
 		(fp_arc
 			(start -2.1747 0.3223)
-			(mid -1.600349 -4.921577)
+			(mid -1.600348 -4.921578)
 			(end 3.1903 -2.713)
 			(stroke
 				(width 0.375)
@@ -33752,12 +33752,28 @@
 		(uuid "9787f342-d41e-4633-a61e-696f80a27e84")
 	)
 	(segment
+		(start 102.7 97.3328)
+		(end 102.7 96.15)
+		(width 0.635)
+		(layer "F.Cu")
+		(net 77)
+		(uuid "2053eef3-fd11-4b2c-a524-7d8087d28e0d")
+	)
+	(segment
 		(start 103.9876 100.3876)
 		(end 102.7 99.1)
 		(width 0.635)
 		(layer "F.Cu")
 		(net 77)
 		(uuid "297549a6-fc51-486c-a3e6-ae84c5f34a5a")
+	)
+	(segment
+		(start 102.7 99.1)
+		(end 102.7 97.3328)
+		(width 0.635)
+		(layer "F.Cu")
+		(net 77)
+		(uuid "385a9984-416a-4845-a165-f7c803a20e80")
 	)
 	(segment
 		(start 105.0868 99.5132)
@@ -33768,14 +33784,6 @@
 		(uuid "3e598180-b6c4-42ab-a565-db6fbc18d273")
 	)
 	(segment
-		(start 102.7 99.1)
-		(end 102.7 96.15)
-		(width 0.635)
-		(layer "F.Cu")
-		(net 77)
-		(uuid "5688e881-fad4-460a-9720-d6cd2d1319f4")
-	)
-	(segment
 		(start 103.9876 100.5963)
 		(end 104.0037 100.5963)
 		(width 0.254)
@@ -33784,12 +33792,36 @@
 		(uuid "5ef1baa3-10c7-46eb-bb9b-b75c4d470e09")
 	)
 	(segment
+		(start 107.4556 98.5132)
+		(end 105.648732 98.5132)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 77)
+		(uuid "ddb0bcb3-62c3-494e-9f81-a3a3cf03ee91")
+	)
+	(segment
 		(start 104.0037 100.5963)
 		(end 105.0868 99.5132)
 		(width 0.254)
 		(layer "F.Cu")
 		(net 77)
 		(uuid "f1ab49f7-d2d0-4f51-884d-91a9eb1e07a3")
+	)
+	(segment
+		(start 104.468332 97.3328)
+		(end 102.7 97.3328)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 77)
+		(uuid "f4ca4b08-9ea2-4c4d-aaa2-fe87b0df124d")
+	)
+	(segment
+		(start 105.648732 98.5132)
+		(end 104.468332 97.3328)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 77)
+		(uuid "fb6cf856-382b-4e50-b85d-700dfb52df4d")
 	)
 	(segment
 		(start 103.9876 100.5963)
