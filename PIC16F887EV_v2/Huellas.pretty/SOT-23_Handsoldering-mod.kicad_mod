@@ -1,0 +1,240 @@
+(footprint "SOT-23_Handsoldering-mod"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SOT-23, Handsoldering")
+	(tags "SOT-23")
+	(property "Reference" "Q1"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "ccc6972a-47d8-4a14-9178-ae4f0fdf8e9e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "2N3904"
+		(at 1.6 -0.8 -90)
+		(layer "F.Fab")
+		(uuid "bee0e387-d750-4155-9270-b5765280cb27")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "36d2ea92-ada4-4abb-bd8c-5f4bfc805d36")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "5b55d28c-2091-431a-b010-819bf392f517")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f11463c3-4188-44f4-a967-ccdb19375a15")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.4 -1.58)
+		(end 0.76 -1.58)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc2c7fee-805d-47b4-ad6b-9e0906ed173f")
+	)
+	(fp_line
+		(start -0.7 1.58)
+		(end 0.76 1.58)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2da85498-bf67-4d70-898b-f5c9e644d29d")
+	)
+	(fp_line
+		(start 0.76 -0.65)
+		(end 0.76 -1.58)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2bb3b6d1-12a0-44c5-8073-e55b5709bf99")
+	)
+	(fp_line
+		(start 0.76 0.65)
+		(end 0.76 1.58)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e52ac2f-04b8-44fd-81d7-e8b9c3815e67")
+	)
+	(fp_line
+		(start -2.7 -1.75)
+		(end -2.7 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6a88ddef-2c15-47ee-bb0d-10f96406fe22")
+	)
+	(fp_line
+		(start -2.7 1.75)
+		(end 2.7 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8d0394ab-662a-49e9-bb15-6b7498e1f1c8")
+	)
+	(fp_line
+		(start 2.7 -1.75)
+		(end -2.7 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b21452b0-e810-4ec0-acbd-64d7cac59732")
+	)
+	(fp_line
+		(start 2.7 1.75)
+		(end 2.7 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c1bfc39-4fcc-4a08-bee4-007d3fe99107")
+	)
+	(fp_line
+		(start -0.7 1.5)
+		(end -0.7 -0.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ecdcbbe-8a69-4722-a61b-4703dbb18213")
+	)
+	(fp_line
+		(start -0.15 -1.52)
+		(end -0.7 -0.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a3dd6ab3-4458-4108-aec7-8c68ac5d82f9")
+	)
+	(fp_line
+		(start 0.7 -1.52)
+		(end -0.15 -1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "095349a9-2745-4b20-82b4-e34f9042dd1f")
+	)
+	(fp_line
+		(start 0.7 1.52)
+		(end -0.7 1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "725d511d-2a5f-4a9e-aabf-64595640e939")
+	)
+	(fp_line
+		(start 0.7 1.52)
+		(end 0.7 -1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8c3eb877-dc92-4eb3-b504-6e359786aeae")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(uuid "8611b55b-eede-4228-b019-dc92959fdbd8")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.5 0.95)
+		(size 1.9 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fa4929f1-c804-43a5-b40b-190745f0675d")
+	)
+	(pad "2" smd rect
+		(at -1.5 -0.95)
+		(size 1.9 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7fe04858-daf8-441a-8ce7-3f5a65b0519b")
+	)
+	(pad "3" smd rect
+		(at 1.5 0)
+		(size 1.9 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "49722dd1-1285-4dd7-a8e8-2bfbd5b49321")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
