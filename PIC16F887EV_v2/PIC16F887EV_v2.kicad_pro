@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 5.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -183,6 +183,9 @@
         0.381,
         0.508,
         0.635,
+        0.762,
+        0.889,
+        1.27,
         2.0
       ],
       "tuning_pattern_settings": {
@@ -215,6 +218,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 1.2,
+          "drill": 0.8
         }
       ],
       "zones_allow_external_fillets": false
@@ -449,7 +456,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PIC16F887EV.kicad_pro",
+    "filename": "PIC16F887EV_v2.kicad_pro",
     "version": 1
   },
   "net_settings": {

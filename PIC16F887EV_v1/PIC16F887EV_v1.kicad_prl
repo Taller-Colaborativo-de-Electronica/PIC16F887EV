@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -59,7 +59,7 @@
       35,
       40
     ],
-    "visible_layers": "0009000_ffffffff",
+    "visible_layers": "00090c0_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -69,7 +69,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "PIC16F887EV.kicad_prl",
+    "filename": "PIC16F887EV_v1.kicad_prl",
     "version": 3
   },
   "project": {

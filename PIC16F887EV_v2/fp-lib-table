@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "GitHub")(type "KiCad")(uri "C:/Users/Usuario/Documents/GitHub")(options "")(descr ""))
   (lib (name "Huellas")(type "KiCad")(uri "${KIPRJMOD}/Huellas.pretty")(options "")(descr ""))
+  (lib (name "Pote")(type "KiCad")(uri "${KIPRJMOD}/Pote.pretty")(options "")(descr ""))
 )
